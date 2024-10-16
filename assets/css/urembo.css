@@ -1,0 +1,18 @@
+h2{
+    font-size:2em;
+    color:fuchsia;
+    font-style: italic;
+
+
+}
+th,td{
+
+    border-style: solid;
+
+    padding:10px
+}
+table{
+    width:100%;
+    font-family: "Times New Roman",Times,serif;
+    border-collapse: collapse;
+}

@@ -1,0 +1,28 @@
+.cars{
+    background-color: green;
+    margin: 20px;
+    text-align: center;
+    padding: 15px;
+    border: darkgreen;
+}
+.Cars{
+    background-color: fuchsia;
+    text-align: center;
+    padding: 15px;
+    border: darkgreen;
+    margin: 15px;
+}
+.fruits{
+    background-color: orangered;
+    text-align: center;
+    padding: 15px;
+    border:darkblue;
+    margin: 15px;
+}
+.CARS{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 15px;
+    border: orange;
+    margin: 15px;
+}
